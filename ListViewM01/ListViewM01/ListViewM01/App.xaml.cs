@@ -10,7 +10,7 @@ namespace ListViewM01
         {
             InitializeComponent();
 
-            MainPage = new ListView03xaml();
+            MainPage = new Alunos();
         }
 
         protected override void OnStart()
